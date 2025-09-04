@@ -1,5 +1,6 @@
 <!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 <p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=akihiro07" />
   <!-- Top Languages Card -->
   <!-- customize
     - PHPは除いている
@@ -18,3 +19,4 @@
    -->
   <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=akihiro07&count_private=true&show_icons=true&theme=ambient_gradient&hide_border=true" />
 </p>
+
